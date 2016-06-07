@@ -10,6 +10,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "documents", "documents", "{
 		documents\motorolla.docx = documents\motorolla.docx
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "screenshots", "screenshots", "{A6F0A913-A581-4082-90AE-EA42D854526E}"
+	ProjectSection(SolutionItems) = preProject
+		screenshots\after-bug-1.png = screenshots\after-bug-1.png
+		screenshots\before-bug-1.png = screenshots\before-bug-1.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -64,7 +64,7 @@
             // 
             this.group1.Items.Add(this.markButton);
             this.group1.Items.Add(this.injectButton);
-            this.group1.Label = "screen injection";
+            this.group1.Label = "range insert xml";
             this.group1.Name = "group1";
             // 
             // markButton
